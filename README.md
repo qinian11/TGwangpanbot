@@ -1,4 +1,4 @@
-# Telegram网盘机器人，待完善！
+# Telegram网盘机器人
 TG：@hy499
 ## 项目简介
 这是一个功能强大的Telegram文件分享机器人，可以帮助您和您的用户在Telegram上分享和管理文件。
@@ -330,4 +330,5 @@ A: 请检查：
 ---
 
 **Happy Sharing! 🎉**
+
 
